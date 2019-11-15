@@ -1,0 +1,9 @@
+{
+  "Name": "The Alice Dataset: fMRI Dataset to Study Natural Language Comprehension in the Brain",
+  "BIDSVersion": "1.1.1",
+  "License": "CCO",
+  "Authors": ["Jonathan R. Brennan", "Edward P. Stabler", "Sarah E. Van Wagenen", "Wen-Ming Luh", "John T. Hale"],
+  "Acknowledgments": "We acknowledge with appreciation the help of David Lutz, Frederick Callaway, Elana Feldman, Jaclyn Jeffrey-Wilensky, and Adam Mahar. We thank Emily Qualls for assistance with data collection.",
+  "Funding": ["NSF CAREER award 0741666","NIH grant S10RR025145"],
+  "ReferencesAndLinks" : ["Brennan et al. (2016) Abstract linguistic structure correlates with temporal activity during naturalistic comprehension. Brain and Language Volumes 157–158: Pages 81-94. doi:10.1016/j.bandl.2016.04.008"]
+}
