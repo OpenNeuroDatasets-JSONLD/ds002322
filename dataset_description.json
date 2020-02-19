@@ -3,10 +3,10 @@
     "BIDSVersion": "1.1.1",
     "License": "CC0",
     "Authors": [
+        "Shohini Bhattasali",
         "Jonathan R. Brennan",
-        "Edward P. Stabler",
-        "Sarah E. Van Wagenen",
         "Wen-Ming Luh",
+        "Berta Franzluebbers",
         "John T. Hale"
     ],
     "Acknowledgments": "We acknowledge with appreciation the help of David Lutz, Frederick Callaway, Elana Feldman, Jaclyn Jeffrey-Wilensky, and Adam Mahar. We thank Emily Qualls for assistance with data collection.",
