@@ -1,3 +1,5 @@
+1.0.4 2020-06-22
+  - updated audio file under /stimuli (+ updated audio filename under stim_file for each subject)
 1.0.3 2020-02-24
   - updated funding information
 1.0.2 2020-02-19
